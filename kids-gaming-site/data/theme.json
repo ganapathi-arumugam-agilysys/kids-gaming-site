@@ -1,0 +1,26 @@
+{
+    "colors": {
+        "primary": "#FFDF00",
+        "accent": "#004040",
+        "background": "#F8F9FA",
+        "text": "#2C3E50",
+        "success": "#2ECC71",
+        "warning": "#F39C12",
+        "danger": "#E74C3C"
+    },
+    "font": "'Comic Sans MS', 'Helvetica Neue', Arial, sans-serif",
+    "spacing": {
+        "xs": "0.25rem",
+        "sm": "0.5rem",
+        "md": "1rem",
+        "lg": "1.5rem",
+        "xl": "2rem",
+        "xxl": "3rem"
+    },
+    "borderRadius": "12px",
+    "shadows": {
+        "light": "0 2px 4px rgba(0, 0, 0, 0.1)",
+        "medium": "0 4px 8px rgba(0, 0, 0, 0.15)",
+        "heavy": "0 8px 16px rgba(0, 0, 0, 0.2)"
+    }
+}

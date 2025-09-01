@@ -1,0 +1,74 @@
+{
+    "title": "Amazing Kids Games",
+    "tagline": "Educational games that make learning fun for ages 10-15!",
+    "countdown": {
+        "title": "🎮 New Game Coming Soon! 🎮",
+        "target": "2025-12-25T00:00:00Z",
+        "description": "Get ready for our biggest game release yet!"
+    },
+    "games": [
+        {
+            "id": "math-adventure",
+            "name": "Math Adventure Quest",
+            "description": "Embark on an epic journey solving math puzzles and defeating monsters with the power of numbers!",
+            "thumbnail": "https://via.placeholder.com/300x200/4A90E2/FFFFFF?text=Math+Quest",
+            "difficulty": "Medium",
+            "url": "https://example.com/math-adventure",
+            "category": "Educational",
+            "ageRange": "10-13",
+            "skills": ["Mathematics", "Problem Solving", "Logic"]
+        },
+        {
+            "id": "word-wizard",
+            "name": "Word Wizard Castle",
+            "description": "Cast spelling spells and build vocabulary while exploring a magical castle full of word-based challenges!",
+            "thumbnail": "https://via.placeholder.com/300x200/FF6B6B/FFFFFF?text=Word+Wizard",
+            "difficulty": "Easy",
+            "url": "https://example.com/word-wizard",
+            "category": "Language Arts",
+            "ageRange": "10-15",
+            "skills": ["Vocabulary", "Spelling", "Reading"]
+        },
+        {
+            "id": "science-lab",
+            "name": "Virtual Science Lab",
+            "description": "Conduct safe experiments and discover the wonders of chemistry, physics, and biology in your own virtual laboratory!",
+            "thumbnail": "https://via.placeholder.com/300x200/2ECC71/FFFFFF?text=Science+Lab",
+            "difficulty": "Hard",
+            "url": "https://example.com/science-lab",
+            "category": "Science",
+            "ageRange": "12-15",
+            "skills": ["Scientific Method", "Critical Thinking", "Experimentation"]
+        },
+        {
+            "id": "coding-challenge",
+            "name": "Code Breaker Academy",
+            "description": "Learn programming fundamentals while solving puzzles and creating your own simple games and animations!",
+            "thumbnail": "https://via.placeholder.com/300x200/9B59B6/FFFFFF?text=Code+Breaker",
+            "difficulty": "Medium",
+            "url": "https://example.com/coding-challenge",
+            "category": "Technology",
+            "ageRange": "11-15",
+            "skills": ["Programming", "Logic", "Problem Solving"]
+        },
+        {
+            "id": "geography-explorer",
+            "name": "Geography Explorer",
+            "description": "Travel the world virtually, learn about different countries, cultures, and landmarks in this interactive geography game!",
+            "thumbnail": "https://via.placeholder.com/300x200/E67E22/FFFFFF?text=Geography",
+            "difficulty": "Easy",
+            "url": "https://example.com/geography-explorer",
+            "category": "Social Studies",
+            "ageRange": "10-14",
+            "skills": ["Geography", "Cultural Awareness", "Research"]
+        }
+    ],
+    "featured": ["math-adventure", "coding-challenge"],
+    "categories": [
+        "Educational",
+        "Language Arts",
+        "Science",
+        "Technology",
+        "Social Studies"
+    ]
+}
